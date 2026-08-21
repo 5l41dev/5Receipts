@@ -235,4 +235,4 @@ The dev credit is stamped across every embed footer, modal, and source file head
 
 ## 💜 Credits
 
-Developed by **5l41** — [5l41.nex4.xyz](https://5l41.nex4.xyz) *(redirects to [github.com/5l41dev](https://github.com/5l41dev))* 💜
+Developed by **5l41** — [5l41.nex4.xyz](https://5l41.nex4.xyz)) 💜
