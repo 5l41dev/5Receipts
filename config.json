@@ -1,0 +1,32 @@
+{
+    "tokens": {
+        "main": "YOUR_BOT_TOKEN"
+    },
+    "owner_id": "YOUR_DISCORD_USER_ID",
+    "client_role_id": "YOUR_CLIENT_ROLE_ID",
+    "staff_role_id": "YOUR_STAFF_ROLE_ID",
+    "paper_access_role_id": "YOUR_PAPER_ACCESS_ROLE_ID",
+    "emu_access_role_id": "YOUR_EMU_ACCESS_ROLE_ID",
+    "paypal_ping_role_id": "YOUR_PAYPAL_PING_ROLE_ID",
+    "bot_name": "5Receipts",
+    "activity": "Serving fresh receipts",
+    "invite": "https://discord.gg/YOUR_SERVER_INVITE",
+    "paypal_email": "YOUR_PAYPAL_EMAIL",
+    "pic_channel": "YOUR_PIC_CHANNEL_ID",
+    "general_channel": "YOUR_GENERAL_CHANNEL_ID",
+    "ticket_category_id": "YOUR_TICKET_CATEGORY_ID",
+    "ticket_panel_channel": "YOUR_TICKET_PANEL_CHANNEL_ID",
+    "setup_guide_channel": "YOUR_SETUP_GUIDE_CHANNEL_ID",
+    "vouch_channel": "YOUR_VOUCH_CHANNEL_ID",
+    "sales_channel": "YOUR_SALES_CHANNEL_ID",
+    "smtp": {
+        "server": "smtp.mailersend.net",
+        "port": 587,
+        "username": "YOUR_SMTP_USERNAME",
+        "password": "YOUR_SMTP_PASSWORD",
+        "sender_domain": "noreply@YOUR_DOMAIN.com"
+    },
+    "zyte": {
+        "api_key": "YOUR_ZYTE_API_KEY"
+    }
+}
